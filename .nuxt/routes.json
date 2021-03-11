@@ -1,0 +1,65 @@
+[
+  {
+    "name": "article",
+    "path": "/article",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\article\\\\index.vue",
+    "chunkName": "pages/article/index",
+    "_name": "_7c181ce0"
+  },
+  {
+    "name": "home",
+    "path": "/",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_244e9e62"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_8592ff86"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_51d47aea"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\settings\\\\index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_f4d075ea"
+  },
+  {
+    "name": "article-components-BaseSlugComment",
+    "path": "/article/components/BaseSlugComment",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\article\\\\components\\\\BaseSlugComment.vue",
+    "chunkName": "pages/article/components/BaseSlugComment",
+    "_name": "_a5dbb72a"
+  },
+  {
+    "name": "article-components-BaseSlugMeta",
+    "path": "/article/components/BaseSlugMeta",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\article\\\\components\\\\BaseSlugMeta.vue",
+    "chunkName": "pages/article/components/BaseSlugMeta",
+    "_name": "_5e1c77a9"
+  },
+  {
+    "name": "article-slug",
+    "path": "/article/:slug",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_7f855f70"
+  },
+  {
+    "name": "user-username",
+    "path": "/user/:username?",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\code\\\\work\\\\fed-e-task-03-03\\\\code\\\\pages\\\\user\\\\_username.vue",
+    "chunkName": "pages/user/_username",
+    "_name": "_28cef1c6"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "yarn",
+      "script": "start.js"
+    }
+  ]
+}
