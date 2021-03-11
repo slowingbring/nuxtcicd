@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "yarn",
+      "name": "start",
       "script": "start.js"
     }
   ]
